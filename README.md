@@ -16,4 +16,4 @@ Here is a sample output of the password generator app running in the terminal:
 
 This example shows how users can interact with the application directly from the terminal, and customize the password generation process according to their needs.
 
-![Py-Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot](screenshot.png)
